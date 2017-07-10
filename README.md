@@ -32,6 +32,6 @@ From various we researched and tried to understand the neural networks behind th
 - neurons belong to the same diagonal (i + j = k + l or i − j = k − l)
 
 
-The output of this can be seen in the main file.
+The output of this can be seen in the main file, AI.ipynb which shows the path.
 
 
