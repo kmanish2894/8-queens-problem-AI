@@ -31,7 +31,17 @@ From various we researched and tried to understand the neural networks behind th
 - neurons are in the same column (j = l), or 
 - neurons belong to the same diagonal (i + j = k + l or i − j = k − l)
 
+ The enrgy equation can b given as,
+ 
+ ![1](https://user-images.githubusercontent.com/20802996/28037051-2085655a-6588-11e7-9d0f-4aa72d836530.jpg)
+ 
+ ![2](https://user-images.githubusercontent.com/20802996/28037110-5a805878-6588-11e7-83a4-02622ee6b891.jpg)
+
+
 
 The output of this can be seen in the main file, AI.ipynb which shows the path.
+
+![astaroutput](https://user-images.githubusercontent.com/20802996/28037135-6cd9485e-6588-11e7-8d23-515e814b49d5.jpg)
+
 
 
